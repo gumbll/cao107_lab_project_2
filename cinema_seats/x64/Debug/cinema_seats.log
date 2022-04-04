@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\projects\cao107_lab_project_2\cinema_seats\main.cpp(166,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  cinema_seats.vcxproj -> C:\projects\cao107_lab_project_2\cinema_seats\x64\Debug\cinema_seats.exe
